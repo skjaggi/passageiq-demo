@@ -6,3 +6,5 @@ This is a clickable demo on **sample data**: the airlines and hotels are made up
 Each tester's trips and settings are saved only in their own browser.
 
 Open the demo: https://skjaggi.github.io/passageiq-demo/
+
+Tester guide and feedback form (Word): https://skjaggi.github.io/passageiq-demo/PassageIQ-Tester-Guide.docx
